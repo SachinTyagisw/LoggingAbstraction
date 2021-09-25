@@ -1,0 +1,2 @@
+{"Timestamp":"2021-09-25T14:07:07.9072927+05:30","Level":"Information","MessageTemplate":"My First Log","Properties":{"ApplicationName":"RailMax"}}
+{"Timestamp":"2021-09-25T14:08:44.5217875+05:30","Level":"Information","MessageTemplate":"My First Log","Properties":{"ApplicationName":"MyApplication"}}
